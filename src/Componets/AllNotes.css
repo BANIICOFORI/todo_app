@@ -1,0 +1,21 @@
+#card {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.Card {
+    background-color: #eee;
+    text-align: start;
+    width: 40%;
+}
+.holder {
+    display: flex;
+    justify-content: space-between;
+}
+.holder button {
+    border: none;
+    padding: 10px 13px;
+    outline: none;
+    width: 25%;
+    background-color: goldenrod;
+}
